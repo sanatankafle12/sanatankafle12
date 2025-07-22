@@ -51,13 +51,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanatan-kafle&show_icons=true&theme=radical" alt="Sanatan's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sanatankafle12&show_icons=true&theme=radical" alt="Sanatan's GitHub Stats"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanatan-kafle&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanatankafle12&theme=radical" alt="GitHub Streak"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanatan-kafle&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanatankafle12&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
